@@ -145,6 +145,10 @@ footer{
     .left h1{
         font-size: 40px;
     }
+    main .right img{
+        width: 60vw;;
+    
+    }
     .project_list{
         display: grid;
         grid-template-columns: 1fr;
